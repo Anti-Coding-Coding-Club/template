@@ -17,7 +17,7 @@
 
 **🌎 README is available in other languages:  [🇧🇷](translations/README_pt-br.md)**
 
-orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##
 - [🌟 features](#-features)
@@ -42,7 +42,7 @@ orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in
 ## 📲 installation
 
 ```cmd
-git clone https://github.com/mmaachado/template.git
+git clone https://github.com/Anti-Coding-Coding-Club/template.git
 ```
 >📣 **clone the repo**
 
@@ -56,7 +56,7 @@ python -m venv env
 <br/>
 
 ```cmd
-.\env\Scripts\Activate.ps1
+.\env\bin\activate
 ```
 >📣 **activate the venv**
 
@@ -80,19 +80,19 @@ python -m main.py
 
 ## ❤️ contributing
 this is an open source project, so feel free to contribute. how?
-- open an [issue](https://github.com/mmaachado/template/issues).
+- open an [issue](https://github.com/Anti-Coding-Coding-Club/template/issues).
 - propose your own fixes, suggestions and open a pull request with the changes.
-see [all contributors](https://github.com/mmaachado/template/graphs/contributors)
-for more information, please read the [contributing guidelines](https://github.com/mmaachado/template/blob/master/CONTRIBUTING.md).
+see [all contributors](https://github.com/Anti-Coding-Coding-Club/template/graphs/contributors)
+for more information, please read the [contributing guidelines](https://github.com/Anti-Coding-Coding-Club/template/blob/master/CONTRIBUTING.md).
 
 ## 👨🏻‍💻 author
-[Marcelo Machado](http://www.twitter.com/hayashilol1)
+[Marcelo Machado](http://www.twitter.com/shinilol1)
 
 ## 👮🏻 license
 ```
 MIT License
 
-Copyright (c) 2022 Anti Coding Coding Club
+Copyright (c) 2023 Anti Coding Coding Club
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
