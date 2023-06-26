@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## 📲 instalação
 
 ```cmd
-git clone https://github.com/mmaachado/template.git
+git clone https://github.com/Anti-Coding-Coding-Club/template.git
 ```
 >📣 **clone o projeto**
 
@@ -62,7 +62,7 @@ python -m venv env
 <br/>
 
 ```cmd
-.\env\Scripts\Activate.ps1
+.\env\bin\activate
 ```
 >📣 **ative sua venv**
 
@@ -90,19 +90,19 @@ python -m main.py
 
 ## ❤️ contribuindo
 este é um projeto open source, então sinta-se livre para contribuir. como?
-- abra uma [issue]().
+- abra uma [issue](https://github.com/Anti-Coding-Coding-Club/template/issues).
 - proponha seus ajustes, sugestões e abra uma pull request com as alterações.
-veja os [contribuidores](#)
-para mais informações, leia nosso [código de contribuição](#)
+veja os [contribuidores](https://github.com/Anti-Coding-Coding-Club/template/graphs/contributors)
+para mais informações, leia nosso [código de contribuição](https://github.com/Anti-Coding-Coding-Club/template/blob/master/CONTRIBUTING.md)
 
 ## 👨🏻‍💻 autor
-[Marcelo Machado](http://www.twitter.com/hayashilol1)
+[Marcelo Machado](http://www.twitter.com/shinilol1)
 
 ## 👮🏻 licença
 ```
 MIT License
 
-Copyright (c) 2022 Anti Coding Coding Club
+Copyright (c) 2023 Anti Coding Coding Club
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
